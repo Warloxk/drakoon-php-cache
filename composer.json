@@ -1,0 +1,16 @@
+{
+    "name": "warloxk/drakoon-php-cache",
+    "description": "drakoon-php-cache",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peter Blaho",
+            "email": "info@peterblaho.com",
+            "homepage": "http://peterblaho.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
